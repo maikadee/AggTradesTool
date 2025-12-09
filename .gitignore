@@ -1,0 +1,29 @@
+# Hidden files/folders
+.*
+!.gitignore
+
+# Binaries
+/aggtrades
+*.exe
+
+# Temp directories
+aggtrades_temp_*/
+
+# Output files
+*.parquet
+
+# Checkpoints
+.checkpoint.json
+
+# Go
+go.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
