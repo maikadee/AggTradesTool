@@ -328,6 +328,11 @@ func (u *UI) LogError(format string, args ...interface{}) {
 	pterm.Error.Printfln(format, args...)
 }
 
+// LogWarning logs a warning message
+func (u *UI) LogWarning(format string, args ...interface{}) {
+	pterm.Warning.Printfln(format, args...)
+}
+
 // LogSuccess logs a success message
 func (u *UI) LogSuccess(format string, args ...interface{}) {
 	pterm.Success.Printfln(format, args...)

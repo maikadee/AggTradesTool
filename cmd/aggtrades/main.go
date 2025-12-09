@@ -130,7 +130,7 @@ func run(cmd *cobra.Command, args []string) error {
 	validation := output.Validate(bars)
 	if !validation.Valid {
 		for _, issue := range validation.Issues {
-			tui.LogError("Validation: %s", issue)
+			tui.LogWarning("Validation: %s", issue)
 		}
 	}
 
